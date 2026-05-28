@@ -1,0 +1,12 @@
+interface:
+  display_name: GG → Plan → Implementation Delivery
+  short_description: Orchestrate evidence-first implementation planning, execution, and post-plan sync
+  icon_small: ./assets/icon-small.svg
+  icon_large: ./assets/icon-large.png
+  brand_color: '#22C55E'
+  default_prompt: >-
+    Use plan when bridging studies or analysis into implementation
+    plans with evidence-first execution, browser validation, documentation sync, and guidance
+    reconciliation. Default to single-threaded plan writing; offer sub-agent assistance only when
+    explicitly requested. Reference plan/SKILL.md when
+    cross-referencing this skill.
